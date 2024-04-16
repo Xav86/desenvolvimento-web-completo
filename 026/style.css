@@ -1,0 +1,32 @@
+body{
+    background-color: #222;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.layout{
+    margin: 50px;
+    text-align: center;
+
+}
+
+.link{
+    text-decoration: none;
+    background-color: #1c72a3;
+    color: #f0f0f0;
+    min-width: 200px;
+    border-radius: 15px;
+
+    padding: 10px 30px;
+
+}
+
+.link:hover{
+    background-color: #41aae7;
+    
+}
